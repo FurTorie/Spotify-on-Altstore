@@ -33,8 +33,8 @@
                     "localizedDescription": "Initial release.",
                     "minOSVersion": "12.0",
                     "maxOSVersion": "17.2.1"
-                }
-            ],
+                },
+            ]
             "appPermissions": {
                 "entitlements": [
                     "com.apple.security.application-groups",
