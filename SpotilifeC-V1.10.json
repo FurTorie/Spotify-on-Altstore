@@ -1,5 +1,5 @@
 {
-    "name": "SpotilifeC",
+    "name": "Spotify",
     "subtitle": "Spotify Premium Free.",
     "description": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
@@ -8,7 +8,7 @@
     "tintColor": "#4185A9",
     "apps": [
         {
-            "name": "SpotilifeC",
+            "name": "Spotify",
             "bundleIdentifier": "0123456789",
             "developerName": "yodaluca23",
             "subtitle": "Spotify Premium Free.",
