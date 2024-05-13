@@ -34,7 +34,7 @@
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Initial release.",
                     "minOSVersion": "16.0",
-                    "maxOSVersion": "17.2.1"
+                    "maxOSVersion": "17.4.1"
                 },
                 {
                     "version": "1.0",
@@ -44,7 +44,7 @@
                     "localizedDescription": "Initial release.",
                     "size": 47954,
                     "minOSVersion": "16.0",
-                    "maxOSVersion": "17.2.1"
+                    "maxOSVersion": "17.4.1"
                 }
             ],
             "appPermissions": {
