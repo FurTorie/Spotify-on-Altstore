@@ -7,7 +7,6 @@
     "website": "https://github.com/SpotCompiled/SpotilifeC/",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "https://github.com/SpotCompiled/SpotilifeC/",
         "https://github.com/SpotCompiled/SpotilifeC/"
     ],
     "apps": [
@@ -51,48 +50,6 @@
                 }
             }
         },
-        {
-            "name": "SpotilifeC",
-            "bundleIdentifier": "github.com",
-            "developerName": "yodaluca23",
-            "subtitle": "Another awesome app.",
-            "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-            "tintColor": "#3660A2",
-            "screenshots": {
-                "iphone": [
-                    "https://example.com/anotherapp_portrait_1.png",
-                    "https://example.com/anotherapp_portrait_2.png",
-                    {
-                        "imageURL": "https://example.com/anotherapp_landscape.png",
-                        "width": 2556,
-                        "height": 1179
-                    }
-                ],
-                "ipad": [
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
-                        "width": 1668,
-                        "height": 2388
-                    },
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
-                        "width": 2388,
-                        "height": 1668
-                    }
-                ]
-            },
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.developer.healthkit",
-                    "com.apple.developer.game-center"
-                ],
-                "privacy": {
-                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
-                }
-            }
-        }
-    ],
     "news": [
         {
             "title": "SpotilifeC",
