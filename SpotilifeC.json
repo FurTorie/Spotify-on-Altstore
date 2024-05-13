@@ -31,15 +31,15 @@
             "versions": [
                 {
                     "version": "1.1",
-                    "date": "2024-05-13T09:00:00-08:00",
+                    "date": "2024-05-13T09:00:00-09:00",
                     "size": 47954,
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "17.4.1"
+                    "minOSVersion": "13.0"
                 },
                 {
                     "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
+                    "date": "2024-05-13T09:00:00-08:00",
                     "size": 10000000,
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Initial release."
@@ -58,9 +58,9 @@
             }
         },
         {
-            "name": "Another Example App",
-            "bundleIdentifier": "com.example.anotherapp",
-            "developerName": "Example Developer",
+            "name": "SpotilifeC",
+            "bundleIdentifier": "github.com/SpotCompiled/SpotilifeC",
+            "developerName": "yodaluca23",
             "subtitle": "Another awesome app.",
             "localizedDescription": "This is another awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
@@ -90,16 +90,8 @@
             },
             "versions": [
                 {
-                    "version": "1.2",
-                    "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
-                    "localizedDescription": "Bug fixes and performance improvements.",
-                    "size": 81514,
-                    "minOSVersion": "13.0"
-                },
-                {
                     "version": "1.1",
-                    "date": "2022-04-15T10:00:00-08:00",
+                    "date": "2024-05-13T09:00:00-09:00",
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "New features!",
                     "size": 81364,
@@ -108,7 +100,7 @@
                 },
                 {
                     "version": "1.0",
-                    "date": "2022-02-02T07:00:00-08:00",
+                    "date": "2024-05-13T09:00:00-08:00",
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Initial release.",
                     "size": 79821
@@ -127,10 +119,10 @@
     ],
     "news": [
         {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
+            "title": "SpotilifeC",
+            "identifier": "yodaluca23",
             "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
+            "date": "2024-05-13",
             "tintColor": "#5CA399",
             "imageURL": "https://example.com/new_feature_image.png",
             "notify": true,
