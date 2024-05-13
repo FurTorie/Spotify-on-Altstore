@@ -1,21 +1,18 @@
 {
     "name": "SpotilifeC",
-    "subtitle": "Spotify Premium Free",
-    "description": "This is my repo for compiled Spotilife IPAs. Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
+    "subtitle": "Spotify Premium Free.",
+    "description": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://github.com/SpotCompiled/SpotilifeC/",
     "tintColor": "#4185A9",
-    "featuredApps": [
-        "https://github.com/SpotCompiled/SpotilifeC/"
-    ],
     "apps": [
         {
             "name": "SpotilifeC",
-            "bundleIdentifier": "github.com",
+            "bundleIdentifier": "com.example.myapp",
             "developerName": "yodaluca23",
             "subtitle": "Spotify Premium Free.",
-            "localizedDescription": "This is my repo for compiled Spotilife IPAs. Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
+            "localizedDescription": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#5CA399",
             "screenshots": [
@@ -30,7 +27,7 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "date": "2024-05-13T09:00:00-08:00",
+                    "date": "2024-05-13T07:00:00-08:00",
                     "size": 47954,
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Initial release.",
@@ -50,16 +47,27 @@
                 }
             }
         },
+    ],
     "news": [
         {
-            "title": "SpotilifeC",
-            "identifier": "yodaluca23",
+            "title": "New Feature Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new feature in AltStore!",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        },
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
             "caption": "An update is available for My Example App.",
-            "date": "2024-05-13T10:00:00-08:00",
+            "date": "2023-03-10T10:00:00-07:00",
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
-            "appID": "github.com",
-            "url": "https://github.com/SpotCompiled/SpotilifeC"
+            "appID": "com.example.myapp"
         }
     ]
+}
