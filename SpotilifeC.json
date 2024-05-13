@@ -134,7 +134,7 @@
             "tintColor": "#5CA399",
             "imageURL": "https://example.com/new_feature_image.png",
             "notify": true,
-            "url": "https://example.com/new_feature_details"
+            "url": "https://github.com/SpotCompiled/SpotilifeC"
         },
         {
             "title": "App Update Available",
@@ -144,7 +144,7 @@
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
-            "appID": "com.example.myapp"
+            "appID": "github.com/SpotCompiled/SpotilifeC"
         }
     ]
 }
