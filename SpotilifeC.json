@@ -31,11 +31,11 @@
             "versions": [
                 {
                     "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "date": "2024-05-13T09:00:00-08:00",
+                    "size": 47954,
+                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
+                    "minOSVersion": "17.4"
                 },
                 {
                     "version": "1.0",
@@ -92,7 +92,7 @@
                 {
                     "version": "1.2",
                     "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Bug fixes and performance improvements.",
                     "size": 81514,
                     "minOSVersion": "13.0"
@@ -100,7 +100,7 @@
                 {
                     "version": "1.1",
                     "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
+                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "New features!",
                     "size": 81364,
                     "minOSVersion": "13.0",
@@ -109,7 +109,7 @@
                 {
                     "version": "1.0",
                     "date": "2022-02-02T07:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
+                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Initial release.",
                     "size": 79821
                 }
