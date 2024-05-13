@@ -20,9 +20,6 @@
             "localizedDescription": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
             "iconURL": "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
             "tintColor": "#5CA399",
-            "screenshots": [
-                "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png"
-            ],
             "versions": [
                 {
                     "version": "1.1",
