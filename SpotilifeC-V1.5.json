@@ -51,7 +51,7 @@
         },
         {
             "name": "SpotilifeC",
-            "bundleIdentifier": "github.com/SpotCompiled/SpotilifeC",
+            "bundleIdentifier": "github.com",
             "developerName": "yodaluca23",
             "subtitle": "Another awesome app.",
             "localizedDescription": "This is another awesome app only available on AltStore.",
