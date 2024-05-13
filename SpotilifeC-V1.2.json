@@ -136,7 +136,7 @@
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
-            "appID": "239290"
+            "appID": "github.com"
         }
     ]
 }
