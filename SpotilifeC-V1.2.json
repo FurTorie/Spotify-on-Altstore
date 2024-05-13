@@ -30,17 +30,9 @@
             ],
             "versions": [
                 {
-                    "version": "1.1",
-                    "date": "2024-05-13T09:00:00-09:00",
-                    "size": 47954,
-                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
-                    "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "13.0"
-                },
-                {
                     "version": "1.0",
                     "date": "2024-05-13T09:00:00-08:00",
-                    "size": 10000000,
+                    "size": 10000,
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "localizedDescription": "Initial release."
                 }
@@ -89,16 +81,7 @@
                 ]
             },
             "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2024-05-13T09:00:00-09:00",
-                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
-                    "localizedDescription": "New features!",
-                    "size": 81364,
-                    "minOSVersion": "13.0",
-                    "maxOSVersion": "17.4.1"
-                },
-                {
+                 {
                     "version": "1.0",
                     "date": "2024-05-13T09:00:00-08:00",
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
@@ -129,10 +112,10 @@
             "url": "https://github.com/SpotCompiled/SpotilifeC"
         },
         {
-            "title": "App Update Available",
-            "identifier": "app_update",
+            "title": "SpotilifeC",
+            "identifier": "yodaluca23",
             "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
+            "date": "2024-05-13T10:00:00-08:00",
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
