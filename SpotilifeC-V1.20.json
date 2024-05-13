@@ -6,6 +6,10 @@
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "github.com/FurTorie",
     "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.example.myapp",
+        "com.example.anotherapp"
+    ],
     "apps": [
         {
             "name": "SpotilifeC",
