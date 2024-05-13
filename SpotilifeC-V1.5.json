@@ -34,7 +34,9 @@
                     "date": "2024-05-13T09:00:00-08:00",
                     "size": 47954,
                     "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
-                    "localizedDescription": "Initial release."
+                    "localizedDescription": "Initial release.",
+                    "minOSVersion": "12.0",
+                    "maxOSVersion": "16.3"
                 }
             ],
             "appPermissions": {
@@ -80,15 +82,6 @@
                     }
                 ]
             },
-            "versions": [
-                 {
-                    "version": "1.0",
-                    "date": "2024-05-13T09:00:00-08:00",
-                    "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
-                    "localizedDescription": "Initial release.",
-                    "size": 47954
-                }
-            ],
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.healthkit",
@@ -104,22 +97,13 @@
         {
             "title": "SpotilifeC",
             "identifier": "yodaluca23",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2024-05-13",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://github.com/SpotCompiled/SpotilifeC"
-        },
-        {
-            "title": "SpotilifeC",
-            "identifier": "yodaluca23",
             "caption": "An update is available for My Example App.",
             "date": "2024-05-13T10:00:00-08:00",
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
-            "appID": "github.com"
+            "appID": "github.com",
+            "url": "https://github.com/SpotCompiled/SpotilifeC"
         }
     ]
 }
