@@ -22,12 +22,7 @@
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
-                "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
-                {
-                    "imageURL": "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
-                    "width": 2556,
-                    "height": 1179
-                }
+                "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png"
             ],
             "versions": [
                 {
