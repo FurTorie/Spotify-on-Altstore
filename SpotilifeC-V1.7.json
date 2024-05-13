@@ -60,7 +60,7 @@
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
             "appID": "github.com",
-            "url": "https://github.com/SpotCompiled/SpotilifeC",
+            "url": "https://github.com/SpotCompiled/SpotilifeC"
         }
     ]
-}
+},
