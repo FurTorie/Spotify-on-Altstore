@@ -1,26 +1,26 @@
 {
-    "name": "Spotify",
-    "subtitle": "Spotify Premium Free.",
-    "description": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "name": "FurTorie",
+    "subtitle": "Share and test APP IPA",
+    "description": "I'm not a PRO, I'm a tinkerer",
+    "iconURL": "https://avatars.githubusercontent.com/u/75777516",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://github.com/SpotCompiled/SpotilifeC/",
+    "website": "github.com/FurTorie",
     "tintColor": "#4185A9",
     "apps": [
         {
-            "name": "Spotify",
+            "name": "SpotilifeC",
             "bundleIdentifier": "github.com/yodaluca23",
             "marketplaceID": "6478879891",
             "developerName": "yodaluca23",
             "subtitle": "Spotify Premium Free.",
             "localizedDescription": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
+                "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
+                "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
                 {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "imageURL": "https://raw.githubusercontent.com/FurTorie/Spotify-on-Altstore/main/AppIcon76x76.png",
                     "width": 2556,
                     "height": 1179
                 }
